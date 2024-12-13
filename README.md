@@ -32,7 +32,6 @@ DriveFlow/
     └── main/
         └── java/
             └── br/com/samuelborges/driveflow/
-                └── ui/
                     └── MainActivity.kt
 
 ```

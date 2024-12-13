@@ -33,11 +33,8 @@ DriveFlow/
         └── java/
             └── br/com/samuelborges/driveflow/
                 └── ui/
-                    └── screens/
-                        └── rideOptionsScreen/
-                            ├── RideOptionsScreen.kt
-                            ├── RideOptionsViewModel.kt
-                            └── MapComponent.kt
+                    └── MainActivity.kt
+
 ```
 
 ---
